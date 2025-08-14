@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+*.env
+.env.*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Data & results
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Downloads
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
