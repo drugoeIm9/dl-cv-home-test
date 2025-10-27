@@ -22,8 +22,8 @@ Thumbs.db
 # Data & results
 data/*
 !data/.gitkeep
-results/*
-!results/.gitkeep
+results/second_task/checkpoints/*
+!results/second_task/checkpoints/best.pth
 
 # Logs & temp files
 *.log
